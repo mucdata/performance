@@ -1,0 +1,4 @@
+https://github.com/kimwalisch/libpopcnt
+https://github.com/lemire/SIMDCompressionAndIntersection
+https://github.com/lemire/FrameOfReference
+https://github.com/lemire/simdcomp
